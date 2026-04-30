@@ -331,7 +331,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 50;
+  z-index: 200;
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.2s ease;
